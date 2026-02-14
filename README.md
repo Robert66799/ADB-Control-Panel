@@ -5,7 +5,8 @@ A batch-based interface for managing Android devices through ADB (Android Debug 
 **Note: This is currently a Windows-only program. A Linux version is planned for a future update.**
 
 **Disclaimer: This program was developed primarily with the assistance of AI.**
-[Read the Disclaimer](./DISCLAIMER.md)
+
+## [Read the General ADB Tool Disclaimer](./DISCLAIMER.md)
 
 <img width="1101" height="576" alt="image" src="https://github.com/user-attachments/assets/490c4074-f57d-432a-8d7c-a682a8bab7a1" />
 
