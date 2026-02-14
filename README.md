@@ -31,3 +31,16 @@ To use this script, you must have the Android SDK Platform Tools installed and c
 
 ## DO NOT ENABLE OEM UNLOCKING WITH THIS GUIDE.  
 ## DO NOT REBOOT TO FASTBOOT WITH THIS GUIDE.
+
+---
+
+---
+
+## Get Started
+
+If you're ready to proceed (and have accepted that your phone's fate is in your own hands), grab the latest version below:
+
+### [Downloads](https://github.com/Robert66799/ADB-Control-Panel/releases/tag/Releases)
+
+> [!IMPORTANT]
+> By downloading, you acknowledge you've read the [**Disclaimer**](./DISCLAIMER.md).
