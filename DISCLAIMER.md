@@ -16,5 +16,8 @@ By using this tool, you acknowledge that manufacturer warranties are basically j
 ### 4. Final Warning
 **Back up your data.** If you proceed without a backup and things go south, the only person available to listen to your complaints is the nearest brick wall. 
 
+I am in no way affiliated with DroidWin or GenyMobile.
+SCRCPY is made by GenyMobile.
+
 > [!CAUTION]
 > **Proceed with caution, or don't. I'm a Disclaimer, not your boss.**
