@@ -25,3 +25,5 @@ A batch-based interface for managing Android devices through ADB (Android Debug 
 ## Setup Guide: Installing ADB and Adding to PATH
 
 To use this script, you must have the Android SDK Platform Tools installed and configured on your Windows system. Check out https://droidwin.com/how-to-add-adb-to-path-in-windows-11/ for more info.  (I am not at all affiliated with DroidWin or any of its affiliates)
+DO NOT ENABLE OEM UNLOCKING WITH THIS GUIDE.  DO NOT REBOOT TO FASTBOOT WITH THIS GUIDE.
+I am not responsible for any lost data.
