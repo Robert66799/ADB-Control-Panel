@@ -1,4 +1,4 @@
-# ADB Utility Toolkit
+# ADB Control Panel
 
 A batch-based interface for managing Android devices through ADB (Android Debug Bridge). This script provides a menu system to automate common tasks and service starts.
 
